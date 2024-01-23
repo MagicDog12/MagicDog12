@@ -15,7 +15,7 @@
 
 - Full-stack Developer Junior
 - Último año de Ingenieria Civil en Computación en la [Universidad de Chile](https://www.uchile.cl/)
-- Estudiando Javascript en [Coderhouse](https://www.coderhouse.cl/online/javascript)
+- Certificado de Javascript [Coderhouse](https://www.coderhouse.cl/certificados/65a6d0172d5176892829a975)
 - Portafolio [cduran.cl](https://cduran.cl)
 - Estoy abierto a nuevas oportunidades, este es mi [cv](https://cduran.cl/cv)
 
